@@ -6,17 +6,7 @@ I feel really good with comparison operators! The one mistake I was making a bit
 
 **1. How confident do you feel in your understanding and fluency with the logical operators?**
 
-I am completely comforable with using logical operators. It reminds me of equations I did in math classes throughout my life. One thing I havent tested out yet that I have been wondering is if you can use logical operators within each other. Like:
-
-```javascript 
-var age = 50
-var time = 3
-var pets = 0
-var siblings = 1
-
-if (age > 10 || time < 6) && (pets =< 0 || siblings > 1)
-
-```
+I am completely comforable with using logical operators. It reminds me of equations I did in math classes throughout my life, and I have played around with using logical operators within other logical operators to make my code more concise.
 
 **1. How confident do you feel in your understanding and fluency with the if statements?**
 
